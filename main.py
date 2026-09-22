@@ -8,7 +8,7 @@ from main_window import MainWindow
 
 def main():
     app = QApplication(sys.argv)
-    app.setApplicationName("Gestor Personal")
+    app.setApplicationName("Gestor Personal.")
     app.setOrganizationName("GestorPersonal")
 
     window = MainWindow()
